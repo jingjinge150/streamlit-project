@@ -1,0 +1,14 @@
+pandas
+matplotlib
+seaborn
+streamlit
+xgboost
+scikit-learn
+streamlit
+plotly
+xmltodict
+numpy
+selenium
+requests
+selenium
+pillow
